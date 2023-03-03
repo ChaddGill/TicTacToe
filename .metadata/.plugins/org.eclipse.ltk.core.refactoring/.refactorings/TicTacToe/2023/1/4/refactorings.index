@@ -1,0 +1,3 @@
+1674874646541	Extract method 'printBoard'
+1674876735095	Extract method 'playerTurn'
+1674881610597	Extract method 'computerTurn'
